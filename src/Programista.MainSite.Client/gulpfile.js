@@ -8,8 +8,17 @@ var paths = {
         'node_modules/@fortawesome/**/fontawesome-free/js/*.*',
         'node_modules/@fortawesome/**/fontawesome-free/webfonts/*.*',
 
-        'node_modules/*/dist/css/*.*',
-        'node_modules/*/dist/js/*.*'
+        'node_modules/*bootstrap/dist/css/*.css',
+        'node_modules/*bootstrap/dist/js/*.js',
+
+        'node_modules/*jquery/dist/*.js',
+        'node_modules/*jquery.easing/*.js',
+
+        'node_modules/*startbootstrap-creative/css/*.*',
+        'node_modules/*startbootstrap-creative/js/*.*',
+        'node_modules/*startbootstrap-creative/img/*.*',
+
+        'node_modules/*magnific-popup/dist/*.*'
     ]
 };
 
